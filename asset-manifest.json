@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quotesite/static/css/main.fcf46a36.css",
+    "main.js": "/quotesite/static/js/main.287f5d05.js",
+    "static/media/city.jpg": "/quotesite/static/media/city.66512aa4c316df20b752.jpg",
+    "index.html": "/quotesite/index.html",
+    "main.fcf46a36.css.map": "/quotesite/static/css/main.fcf46a36.css.map",
+    "main.287f5d05.js.map": "/quotesite/static/js/main.287f5d05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf46a36.css",
+    "static/js/main.287f5d05.js"
+  ]
+}
